@@ -4,6 +4,8 @@
 
 A multi-radio 433MHz RF signal monitoring system using ESP32 and CC1101 radio modules. Features a mobile-optimized web interface for real-time signal viewing, device identification, and remote control via ntfy push notifications.
 
+<img width="766" height="773" alt="image" src="https://github.com/user-attachments/assets/873b5a4c-5736-4997-ae54-3c932a2a8dcb" />
+
 ## Features
 
 - **Multi-radio support**: Up to 3 CC1101 radio modules with independent modulation settings
