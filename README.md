@@ -123,7 +123,7 @@ Send commands to topic `ESP32-MultiSniffer-CMD` using the [ntfy app](https://ntf
 **Modulation types**: 0=2-FSK, 1=GFSK, 2=ASK/OOK, 4=MSK, 5=Wideband ASK
 
 **ntfy Topics**:
-- `ESP32-MultiSniffer` - All communication (commands and responses) on the same topic
+- `MultiSniffer` (Change!!!) - All communication (commands and responses) on the same topic.
 
 ## Supported Devices
 
